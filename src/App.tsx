@@ -8,7 +8,7 @@ function App() {
     const heartsign = "<3";
     return (
         <>
-            <main className="flex flex-col bg-black pb-2">
+            <main className="flex flex-col bg-black pb-2 max-w-md mx-auto">
                 <div className="relative">
                     <div className="absolute inset-0 grid place-items-center">
                         <div className="flex flex-col items-center whitespace-nowrap">
